@@ -1,0 +1,15 @@
+.button {
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 5px 20px;
+  }
+  
+  .button:hover {
+    cursor: pointer;
+    background-color: blanchedalmond;
+  }
+  
+  .header {
+    text-align: center;
+  }
